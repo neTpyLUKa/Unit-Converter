@@ -9,3 +9,5 @@ Usage examples:
 1.23 kilograms in pounds
 
 2 meters to g // prints error message!
+
+1 g in pound
